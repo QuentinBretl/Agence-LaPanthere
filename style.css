@@ -738,7 +738,11 @@ body {
   }
   
   .white {
-    color: #ffffff !important;
+    color: #ffffff;
+  }
+
+  .black {
+    color: black;
   }
   
   .portfolio-thumb {
