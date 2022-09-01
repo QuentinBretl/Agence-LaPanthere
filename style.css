@@ -824,6 +824,11 @@ body {
     background-image: url("img-conversion/agence-la-panthere.webp");
   }
 
+  .texture-paper::before {
+    background: url("img-conversion/texture-paper.webp");
+    background-size: 280px 280px;
+}
+
  /* .darken {
   display: block;
   position: absolute;
